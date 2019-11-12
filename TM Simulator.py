@@ -1,9 +1,9 @@
 ########################################
 # Created by Samuelito Perro #
 ########################################
-# This is a NON-DETERMINISTIC Finite State Automata Simulator
-# This program takes 3 parameters: An NFSA detinition file,
-# A file holding strings, An output file name.
+# This is a Turing Machine Simulator
+# This program takes 4 parameters: An TM detinition file,
+# A file holding strings, An output file name, and a limit of steps.
 # check description document for the format of these files
 
 from datetime import datetime
