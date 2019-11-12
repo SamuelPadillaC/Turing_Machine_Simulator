@@ -19,6 +19,14 @@ This video does a great job explaining it: https://www.youtube.com/watch?v=-ZS_z
 This program uses Pandas and Numpy (it was just practice for me), so it might be necessary that you install those packages in your environment.
 Just run pip install pandas & pip install numpy and you should be good to go.
 
+# Description Files
+This repository contains 2 sample decription files. Description01.txt and Description02.txt.
+The alphabet for both files is '01'.
+
+This is what they do:
+Description01.txt - This configuration adds up the bits in the word, and gives the ultimate value 'ones place' value.
+Description02.txt - This gives back the initial input with 1's flipped to 0 and 0's to 1's
+
 ########################################################################
 # Arguments - 'TM Simulator.py' receives 4 command line arguments in the following order:
 # A Definition File
