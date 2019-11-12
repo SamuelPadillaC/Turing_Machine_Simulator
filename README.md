@@ -20,7 +20,7 @@ This program uses Pandas and Numpy (it was just practice for me), so it might be
 Just run pip install pandas & pip install numpy and you should be good to go.
 
 # Description Files
-This repository contains 2 sample decription files. Description01.txt and Description02.txt.
+This repository contains 2 sample description files. Description01.txt and Description02.txt.
 The alphabet for both files is '01'.
 
 This is what they do:
